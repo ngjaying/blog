@@ -79,7 +79,7 @@ disqus: #shortname
 gitalk:
   clientID: 542bc27eb7c45a4e2eec
   clientSecret: 1fb9a1a86a9e8899cc62d61b977a14fc050a6f6c
-  repo: ngjaying/blog
+  repo: blog
   owner: ngjaying
 
 # 输入Google Analytics web tracking code
